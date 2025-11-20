@@ -1,6 +1,6 @@
 # 🎓 Portefolio de Mathieu LEMULLIER
 Bienvenu sur mon Portefolio
-Je suis étudiant en Data analyse à OpenClassroom
+Je suis Consultant expérimenté en Data analyse chez Data ESN
 
 ## Livrables organisationnels
 - [Cahier des charges]
